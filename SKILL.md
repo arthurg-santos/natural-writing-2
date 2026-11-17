@@ -1,5 +1,5 @@
 ---
-name: natural-writing
+name: natural-writing-2
 description: Escreve e revisa textos em português natural, claro, específico e fluido. Evita construções mecânicas, clichês, exageros retóricos, estruturas repetitivas e padrões estilísticos comuns em textos genéricos de modelos de linguagem. Use ao escrever, reescrever, revisar ou editar qualquer tipo de texto.
 ---
 
